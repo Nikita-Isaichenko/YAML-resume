@@ -1,0 +1,17 @@
+details:
+  first_name: Nikita
+  last_name: Isaichenko
+  title: .NET developer
+
+profile: |
+  I'm developing on the platform .NET using c#. I am an intern at 50 ohm Technologies
+
+contact:
+  - text: Email
+    url: "mailto:nik_isaichenko@vk.com"
+    icon: email
+  - text: GitHub
+    url: "https://github.com/Nikita-Isaichenko"
+    icon: github
+
+technical: []

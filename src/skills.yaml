@@ -1,0 +1,42 @@
+categories:
+  - &lang
+    Languages
+  - &db
+    Databases
+  - &containers
+    Containers & Orchestration
+  - &git
+    Version Control system
+
+skills:
+- name: C#
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: Sqlite
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: MS SQL Server
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: docker
+  level: junior
+  labels:
+    - tools
+    - technology
+  category: *containers
+- name: docker-compose
+  level: junior
+  category: *containers
+  labels:
+    - tools
+- name: Git
+  level: junior
+  category: *git
+  labels:
+    - tools
